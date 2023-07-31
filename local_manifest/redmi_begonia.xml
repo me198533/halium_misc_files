@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name="mine"
+    fetch="https://github.com/me198533"
+    revision="11.0" />
+    
+<project path="device/redmi/begonia" name="android_device_redmi_begonia" remote="mine" revision="11.0" />
+
+<project path="device/kernel/mt6785" name="android_kernel_xiaomi_mt6785" remote="mine" revision="11.0" />
+
+<project path="device/redmi/begonia" name="android_vendor_redmi_begonia" remote="mine" revision="11.0" />
+
+
+</manifest>
